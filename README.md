@@ -11,19 +11,19 @@ The platform enables users to browse and purchase products intended to support e
 
 ## Screenshots
 
-<img width="1363" height="647" alt="healing home" src="https://github.com/user-attachments/assets/dd7a7418-e1f0-47ed-8c82-a14d94cbe738" />
+<img width="450" height="250" alt="healing home" src="https://github.com/user-attachments/assets/dd7a7418-e1f0-47ed-8c82-a14d94cbe738" />
 
-<img width="1366" height="650" alt="healing auth" src="https://github.com/user-attachments/assets/36a3dab0-8f05-4dce-a6a3-c50e41391fab" />
+<img width="450" height="250" alt="healing auth" src="https://github.com/user-attachments/assets/36a3dab0-8f05-4dce-a6a3-c50e41391fab" />
 
-<img width="1348" height="619" alt="healing footer" src="https://github.com/user-attachments/assets/b6de7c65-e3b9-42f7-af8e-592eb3519300" />
+<img width="450" height="250" alt="healing footer" src="https://github.com/user-attachments/assets/b6de7c65-e3b9-42f7-af8e-592eb3519300" />
 
-<img width="1363" height="651" alt="healing detail" src="https://github.com/user-attachments/assets/ad0cad6e-4d54-4abc-a893-91d42c51a20b" />
+<img width="450" height="250" alt="healing detail" src="https://github.com/user-attachments/assets/ad0cad6e-4d54-4abc-a893-91d42c51a20b" />
 
-<img width="1348" height="619" alt="healing footer" src="https://github.com/user-attachments/assets/14eb65fe-a2cd-4eba-95e8-3bb783f80f49" />
+<img width="450" height="250" alt="healing footer" src="https://github.com/user-attachments/assets/14eb65fe-a2cd-4eba-95e8-3bb783f80f49" />
 
-<img width="1361" height="655" alt="healing admin" src="https://github.com/user-attachments/assets/a300f581-7a90-4b31-9cbd-ac27f124650d" />
+<img width="450" height="250" alt="healing admin" src="https://github.com/user-attachments/assets/a300f581-7a90-4b31-9cbd-ac27f124650d" />
 
-<img width="1348" height="619" alt="healing footer" src="https://github.com/user-attachments/assets/3e5c509f-97d8-4079-995d-9f4514ddb16e" />
+<img width="450" height="250" alt="healing footer" src="https://github.com/user-attachments/assets/3e5c509f-97d8-4079-995d-9f4514ddb16e" />
 
 
 
