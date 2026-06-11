@@ -6,7 +6,7 @@ The platform enables users to browse and purchase products intended to support e
 
 ## Live Preview
 
-> 
+> https://veteran-healing-fe.vercel.app/
 
 
 ## Screenshots
@@ -23,7 +23,7 @@ The platform enables users to browse and purchase products intended to support e
 
 <img width="450" height="250" alt="healing admin" src="https://github.com/user-attachments/assets/a300f581-7a90-4b31-9cbd-ac27f124650d" />
 
-<img width="273" height="563" alt="admin mobile" src="https://github.com/user-attachments/assets/80e529f2-d887-4781-8695-0f13a663d65d" />
+<!-- <img width="273" height="563" alt="admin mobile" src="https://github.com/user-attachments/assets/80e529f2-d887-4781-8695-0f13a663d65d" /> -->
 
 
 
