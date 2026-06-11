@@ -4,10 +4,6 @@ An eCommerce platform built to support veterans by providing wellness-focused pr
 
 The platform enables users to browse and purchase products intended to support emotional well-being and recovery-oriented care, while also allowing direct donations to a suicide prevention organization.
 
-## Live Preview
-
-> https://veteran-healing-fe.vercel.app/
-
 
 ## Screenshots
 
@@ -22,16 +18,6 @@ The platform enables users to browse and purchase products intended to support e
 <img width="450" height="250" alt="cart" src="https://github.com/user-attachments/assets/3dcb58f7-c1dd-4fd2-b419-c427008de0c7" />
 
 <img width="450" height="250" alt="healing admin" src="https://github.com/user-attachments/assets/a300f581-7a90-4b31-9cbd-ac27f124650d" />
-
-<!-- <img width="273" height="563" alt="admin mobile" src="https://github.com/user-attachments/assets/80e529f2-d887-4781-8695-0f13a663d65d" /> -->
-
-
-
-
-
-
-
-
 
 
 ## Key Features
@@ -90,13 +76,13 @@ Veteran Healings was built to combine eCommerce functionality with a mission-dri
 
 * **Frontend:** React.js, TypeScript
 * **Backend:** NestJS, Node.js
-* **Database:** PostgreSQL, MongoDB
+* **Database:** PostgreSQL
 * **ORM:** Drizzle ORM
 * **Data Fetching:** TanStack Query
 * **Authentication:** Better Auth
 * **Media Storage:** Cloudinary
-* **Email Services:** SendGrid, Brevo
-* **Deployment:** Vercel, Railway, Neon DB
+* **Email Services:** SendGrid
+* **Deployment:** Vercel, Railway
 * **Payments:** Stripe
 
 ## Best Practices Followed
@@ -112,7 +98,7 @@ Veteran Healings was built to combine eCommerce functionality with a mission-dri
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/veteran-healings.git
+git clone https://github.com/mehtabali05/veteran-healings.git
 cd veteran-healings
 npm install
 npm run dev
@@ -123,16 +109,34 @@ npm run dev
 Create a `.env` file and configure the required values for your setup.
 
 ```bash
-DATABASE_URL=
-JWT_SECRET=
-NEXT_PUBLIC_APP_URL=
-CLOUDINARY_CLOUD_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
-SENDGRID_API_KEY=
-BREVO_API_KEY=
-STRIPE_SECRET_KEY=
-STRIPE_WEBHOOK_SECRET=
+# Database
+DATABASE_URL=""
+
+# App
+PORT=3000
+FRONTEND_URL=""
+
+# Auth (Better Auth)
+BETTER_AUTH_SECRET=""
+BETTER_AUTH_URL=""
+
+# Cloudinary
+CLOUDINARY_CLOUD_NAME=""
+CLOUDINARY_API_KEY=""
+CLOUDINARY_API_SECRET=""
+
+# Email (SendGrid)
+SENDGRID_API_KEY=""
+SENDGRID_FROM_EMAIL=""
+
+# Payment (Stripe)
+STRIPE_SECRET_KEY=""
+STRIPE_PUBLISHABLE_KEY=""
+STRIPE_WEBHOOK_SECRET=""
+
+# Community & Admin
+FACEBOOK_GROUP_URL=""
+ADMIN_EMAIL=""
 ```
 
 > Update these variables based on the services used in your implementation.
